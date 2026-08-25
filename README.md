@@ -38,6 +38,10 @@ What starts as simple Python exercises will gradually evolve into more advanced 
 
 ⚠️ Disclaimer
 
+
+
 All projects in this repository are created for educational purposes.
 
 Any security-related tools should only be used on systems and networks where I have explicit permission to test them.
+
+PS : projects was in the branch master
